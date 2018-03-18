@@ -11,7 +11,7 @@ More info at... [Offical Webpage](http://www.keeptalkinggame.com/)
 
 ![Screenshot](keeptalking.jpeg)
 
-Avaliable to download at...[Download link](http://www.dlcompare.com/games/100003858/buy-keep-talking-and-nobody-explodes-key)
+Avaliable on Steam...[Steam Link](http://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)
 
 Bomb manual avaliable at...[Bomb Manual Online](http://www.bombmanual.com/)
 
