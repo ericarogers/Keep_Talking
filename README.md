@@ -5,7 +5,9 @@ Solving your bomb so you don't have to...
 
 ## Keep Talking and Nobody Explodes
 #### The Game...
-In Keep Talking and Nobody Explodes, one player is trapped in a room with a ticking time bomb they must defuse. The other players are the "Experts" who must give the instructions to defuse the bomb by deciphering the information found in the Bomb Defusal Manual. But there's a catch: the Experts can't see the bomb, so everyone will need to talk it out - fast! More info at... [Offical Webpage](http://www.keeptalkinggame.com/)
+In Keep Talking and Nobody Explodes, one player is trapped in a room with a ticking time bomb they must defuse. The other players are the "Experts" who must give the instructions to defuse the bomb by deciphering the information found in the Bomb Defusal Manual. But there's a catch: the Experts can't see the bomb, so everyone will need to talk it out - fast! 
+
+More info at... [Offical Webpage](http://www.keeptalkinggame.com/)
 
 ![Screenshot](keeptalking.jpeg)
 
