@@ -20,6 +20,7 @@ Bomb manual avaliable at...[Bomb Manual Online](http://www.bombmanual.com/)
 ## The Solution
 ### How it works...
 Start up keep_talking.py and start by defining your bomb.
+
 From there, decide on the modules you need to solve and answer questions to get solutions - quick!
 
 #### Modules Avaliable
