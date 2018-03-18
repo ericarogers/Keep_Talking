@@ -1,4 +1,4 @@
-'''Subject of Who;s on First'''
+'''Subject of Who's on First'''
 
 '''Import & define useful functions'''
 from Bomb import useful_funct
