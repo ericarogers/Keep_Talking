@@ -1,5 +1,7 @@
 # Keep_Talking
-Keep Talking &amp; Nobody Explodes - Solutions for various modules
+Solving your bomb so you don't have to...
+
+
 
 ## Keep Talking and Nobody Explodes
 #### How it works...
@@ -8,9 +10,13 @@ In Keep Talking and Nobody Explodes, one player is trapped in a room with a tick
 ![Screenshot](keeptalking.jpeg)
 
 Avaliable to download at...[Download link](http://www.dlcompare.com/games/100003858/buy-keep-talking-and-nobody-explodes-key)
+
 Bomb manual avaliable at...[Bomb Manual Online](http://www.bombmanual.com/)
 
+
+
 ## Modules Avaliable within Solution
+
 #### Subject of Wires
 #### Subject of The Button
 #### Subject of Who's on First
