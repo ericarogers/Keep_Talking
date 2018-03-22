@@ -19,12 +19,13 @@ def wire_action():
     Takes user input, makes note,
     supplies solution by checking lists for occurance
     '''
+
     Red = 0
     Blue = 0
     Black = 0
     Cont = True
 
-    while Cont is True:
+    while Cont is True:  # ensure valid input for wire
         col = get_RealCol("\nDescribe your wire (colour): ", 0, 1, 4)
         while True:
             letter = get_Alpha("\nDescribe your wire (letter): ")
@@ -56,7 +57,7 @@ def wire_action():
             else:
                 pass
 
-        # Soltion Output
+        # Solution Output
         if "cut" in Sol:
             print("\n-- Action: Cut! --")
         else:
