@@ -45,7 +45,7 @@ while True:
         if (colours.count("red")) > 1 and (SerialEven == True):
             print ("Cut the last red wire")
             break
-        if (colours[-1] == "white") and ("red" not in wires) or ((colours.count("blue")) == 1):
+        if ((colours[-1] == "white") and ("red" not in wires)) or ((colours.count("blue")) == 1):
             print ("Cut the first wire")
             break
         if (colours.count("yellow")) > 1:
