@@ -42,11 +42,11 @@ passopts = {"Again": ["a", "a", "n"],
             }
 
 
-# Input Check - must be 6 letters
+# Input Check - must be 6 letters & alphabetical
 def pass_Check(prompt):
     while True:
-        password = get_Alpha(prompt)
-        if len(password) == 6:
+        password = get_Alpha(prompt)  # alphabetical check
+        if len(password) == 6:  # length check
             return str(password)
         else:
             print("Invalid input! Please try again!\n")
