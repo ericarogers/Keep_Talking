@@ -49,34 +49,34 @@ def disp_opt(display,disp):
 
     while True:
         output = 0
-        if len(display) == 6:
-            for first, second in display.items():
-                for third in second:
-                    if third == disp:
+        if len(display) == 6:  # if Step 1
+            for first, second in display.items():  # for word options
+                for third in second:  # for each word
+                    if third == disp:  # if the word is the same as user input
                         print("\nClick the label on the", first)
                         output = 1
-        if len(display) == 28:
-            for first, second in display.items():
-                for third in second:
-                    if first == disp:
+        if len(display) == 28:  # if Step 2
+            for first, second in display.items():  # for word options
+                for third in second:  # for each word
+                    if first == disp:  # if the word is the same as user input
                         print("\nClick the first word in the following options...", third)
                         output = 2
-        if (output) == 1 or (output) == 2:
+        if (output) == 1 or (output) == 2:  # if output achieved - continue
             break
-        else:
-            disp = input("Invalid input. Try again: ").lower()
+        else:  # else repeat input until output achieved
+            disp = input("Invalid input. Try again: ").lower() 
 
 while True:
 
-    # Define displays & return options
+    # Define displays via user input & return options through funct
     disp_int = input("\n\n<<Step 1>>\nEnter the display label: ")
     
-    # iterate options step 1 & find corresponding options
+    # iterate through options step 1
     disp_opt(display=disp1, disp=disp_int)
 
     disp_int2 = input("\n\n<<Step 2>>\nEnter the label now in the position from Step 1: ")
     
-    # iterate options step 2 & find corresponding options
+    # iterate through options step 2
     disp_opt(display=disp2, disp=disp_int2)
 
     # Repeat function
