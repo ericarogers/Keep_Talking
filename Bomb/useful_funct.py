@@ -27,8 +27,8 @@ def get_NumRange(prompt, limit1, limit2):
 
 def get_RealCol(prompt, *nums):
     '''
-    Function to check colours if input
-    included within specified for module
+    Function to check colours - if input
+    included within specified options for module
     by specifying them through indexing
     '''
     
@@ -47,7 +47,7 @@ def get_RealCol(prompt, *nums):
 
 
 def get_Alpha(prompt):
-    '''Alphabetical input check & return in lower'''
+    '''Alphabetical input check & return in lower str'''
     
     while True:  # loop to ensure alphabetical input
         try:
