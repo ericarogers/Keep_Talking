@@ -32,6 +32,6 @@ BombBatteries = get_NumRange("Batteries: ", 0, 7)
 print("\n- There is a parallel port on the bomb -")
 ParallelPort = get_Bool("True or False? ")
 
-# Send up bomb from user input & send to choose module options
+# Set up bomb from user input & send to choose module options
 Bomb.Module(SE=SerialEven, SV=SerialVowel, BB=BombBatteries, PP=ParallelPort)
 
