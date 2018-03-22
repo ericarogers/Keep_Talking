@@ -62,7 +62,7 @@ words = []  # list for options from user input
 n = -1
 
 # Building up list of options from user input
-for option in options: # checking per input for columns
+for option in options: # checking user input per column
     n += 1
     for word, letters in passopts.items():
         for letter in letters[n]:  # iterating letters in combinations
