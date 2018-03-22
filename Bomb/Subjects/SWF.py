@@ -43,8 +43,10 @@ disp2  = {"ready": ["yes, okay, what, middle, left, press, right, blank, ready"]
           "like": ["you're, next, u, ur, hold, done, uh uh, what?, uh huh, you, like"],
           }
 
+
 def disp_opt(display,disp):
     '''Return display options'''
+
     while True:
         output = 0
         if len(display) == 6:
