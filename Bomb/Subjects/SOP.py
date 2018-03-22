@@ -65,14 +65,14 @@ n = -1
 for option in options: # checking user input per column
     n += 1
     for word, letters in passopts.items():
-        for letter in letters[n]:  # iterating letters in combinations
-            if letter in options[n]:  # iterating letters in input
+        for letter in letters[n]:  # iterating through letters in combinations
+            if letter in options[n]:  # iterating through letters in input
                     words.append(word)  # list of words with the letters input
             else:
                 pass
 
 b = Counter(words)  # count the frequency of the words in words list
-solution = b.most_common(1)[0][0]  # store the most common answer
+solution = b.most_common(1)[0][0]  # store the most common answer as solution
 
 # Return most common word in list as solution
 print ("\n-- Password:", solution, " --")
