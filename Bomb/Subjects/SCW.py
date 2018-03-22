@@ -1,6 +1,7 @@
 '''Subject of Complex Wires'''
 
 '''Import & define useful functions'''
+
 from Bomb import useful_funct
 get_NumRange = useful_funct.get_NumRange
 get_Bool = useful_funct.get_Bool
