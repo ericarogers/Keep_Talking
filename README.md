@@ -28,5 +28,5 @@ From there, decide on the modules you need to solve and answer questions to get 
 * Subject of Who's on First
 * Subject of Memory
 * Subject of Complicated Wires
-* Subject of Wire Sequences)
+* Subject of Wire Sequences
 * Subject of Passwords
